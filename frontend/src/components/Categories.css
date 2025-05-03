@@ -1,0 +1,93 @@
+.explore-categories {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 80%;
+    margin: auto; /* Center the container */
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Align text centrally */
+}
+
+.explore-categories h1 {
+    font-weight: 600;
+    font-size: 2rem; /* Adjusted for better readability */
+    color: #FF9A00;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.explore-categories-text {
+    max-width: 80%;
+    font-weight: 400;
+    color: #191919; 
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.explore-categories-list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    margin: 20px 0;
+    overflow-x: auto; 
+    padding-bottom: 10px; 
+}
+
+.explore-categories-list::-webkit-scrollbar {
+    height: 8px;
+    background-color: #e2e2e2; 
+}
+
+.explore-categories-list::-webkit-scrollbar-thumb {
+    background-color: goldenrod; 
+    border-radius: 10px;
+}
+
+.explore-categories-list-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.explore-categories-list-item img {
+    border-radius: 50%; 
+    width: 8vw;
+    max-width: 120px; 
+    height: 8vw;
+    max-height: 120px; /* Constrain max height */
+    object-fit: cover; /* Maintain image proportions */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 3px solid goldenrod;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+}
+
+.explore-categories-list-item img:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); 
+    border-color: #d4af37; 
+
+.explore-categories-list-item p {
+    margin-top: 10px;
+    color: #747474;
+    font-size: 1rem; 
+    font-weight: 500;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.explore-categories-list-item p:hover {
+    color: goldenrod; 
+}
+
+.explore-categories hr {
+    width: 100%;
+    margin: 10px 0;
+    height: 2px;
+    background-color: #e2e2e2;
+    border: none;
+}
+}

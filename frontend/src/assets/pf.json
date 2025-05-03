@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "brand": "RIO",
+        "type": "Bird Food",
+        "weight": "1 kg",
+        "price": 1000,
+        "img": "/food/bf1.png"
+    },
+    {
+        "id": 2,
+        "brand": "Pedigree",
+        "type": "Dog Food",
+        "weight": "2 kg",
+        "price": 3000,
+        "img": "/food/df1.png"
+    },
+    {
+        "id": 3,
+        "brand": "Meow mix",
+        "type": "Cat Food",
+        "flavor": "Chicken",
+        "weight": "2 kg",
+        "price": 2500,
+        "img": "/food/cf1.png"
+    },
+    {
+        "id": 4,
+        "brand": "BigPaw",
+        "type": "Dog Food",
+        "weight": "12 kg",
+        "price":  230000,
+        "img": "/food/df2.png"
+    },
+    {
+        "id": 5,
+        "brand": "Polo",
+        "type": "Bird Food",
+        "weight": "1 kg",
+        "price": 1000,
+        "img": "/food/bf2.png"
+    },
+    {
+        "id": 6,
+        "brand": "Goody",
+        "type": "Dog Food",
+        "weight": "2 kg",
+        "price": 45000,
+        "img": "/food/df3.png"
+    },
+    {
+        "id": 7,
+        "brand": "Whiskas",
+        "type": "Cat Food",
+        "flavor": "Chicken",
+        "weight": "1 kg",
+        "price": 1500,
+        "img": "/food/cf3.png"
+    },
+    {
+        "id": 8,
+        "brand": "Vita craft",
+        "type": "Bird Food",
+        "weight": "2 kg",
+        "price": 2000,
+        "img": "/food/bf3.png"
+    },
+    {
+        "id": 9,
+        "brand": "Royal Cannin",
+        "type": "Dog Food",
+        "weight": "2 kg",
+        "price": 3200,
+        "img": "/food/df4.png"
+    },
+    {
+        "id": 10,
+        "brand": "9 lives",
+        "type": "Cat Food",
+        "flavor": "Chicken",
+        "weight": "3 kg",
+        "price": 5000 ,
+        "img": "/food/cf4.png"
+    },
+    {
+        "id": 11,
+        "brand": "Nutri Berries",
+        "type": "Bird Food",
+        "weight": "10 kg",
+        "price": 10020 ,
+        "img": "/food/bf4.png"
+    },
+    {
+        "id": 12,
+        "brand": "Woof",
+        "type": "Dog Food",
+        "weight": "1 kg",
+        "price": 3000 ,
+        "img": "/food/df5.png"
+    },
+    {
+        "id": 13,
+        "brand": "Meow mix",
+        "type": "Cat Food",
+        "flavor": "beef",
+        "weight": "0.5 kg",
+        "price": 750 ,
+        "img": "/food/cf5.png"
+    }
+]

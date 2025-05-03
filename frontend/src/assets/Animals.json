@@ -1,0 +1,24 @@
+[
+
+    {
+        "name": "Dog",    
+        "img": "/animal/dog8.jpg"
+    },
+
+    {
+        "name": "Cat",    
+        "img": "/animal/cat1.jpg"
+    },
+    {
+        "name": "Fish",    
+        "img": "/animal/fish4.png"
+    },
+    {
+        "name": "Rabbit",    
+        "img": "/animal/bun1.png"
+    },
+    {
+        "name": "Bird",    
+        "img": "/animal/pr1.jpg"
+    }
+]

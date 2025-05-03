@@ -1,0 +1,86 @@
+[
+    {
+      "id": 14,
+      "name": "Stainless Steel Food Bowl",
+      "price": 1500,
+      "category": "Food Bowls",
+      "material": "Stainless Steel",
+      "img": "/acs/b1.png"
+    },
+    {
+      "id": 15,
+      "name": "Plastic Food Bowl",
+      "price": 800,
+      "category": "Food Bowls",
+      "material": "Plastic",
+      "img": "/acs/b2.png"
+
+    },
+    {
+      "id": 16,
+      "name": "Food Bowl",
+      "price": 2300,
+      "category": "Food Dispensers",
+      "material": "Plastic",
+      "img": "/acs/b3.png"
+    },
+    {
+      "id": 17,
+      "name": "Pet Carrier Bag - Small",
+      "price": 1800,
+      "category": "Carrier Bags",
+      "material": "Fabric",
+      "img": "/acs/b4.png"
+    },
+    {
+      "id": 18,
+      "name": "Pet Carrier Bag - Medium",
+      "price": 2200,
+      "category": "Carrier Bags",
+      "material": "Fabric",
+      "img": "/acs/b5.png"
+    },
+    {
+      "id": 19,
+      "name": "Wooden Pet House",
+      "price": 7000,
+      "category": "Pet Houses",
+      "material": "Wooden",
+      "img": "/acs/b6.png"
+    },
+    {
+      "id": 20,
+      "name": "Foam Pet House - Small",
+      "price": 4500,
+      "category": "Pet Houses",
+      "material": "Foam",
+      "img": "/acs/b7.png"
+    },
+    {
+      "id": 21,
+      "name": "Foam Pet House - Medium",
+      "price": 5500,
+      "category": "Pet Houses",
+      "material": "Foam",
+      "img": "/acs/b8.png"
+    },
+    {
+      "id": 22,
+      "name": "Pet Collar - Pink",
+      "price": 1200,
+      "category": "Pet Collars",
+      "color": "Black",
+      "material": "Leather",
+      "img": "/acs/b9.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Colorful Pet Collar",
+      "price": 1400,
+      "category": "Pet Collars",
+      "color": "Colorful",
+      "material": "Nylon",
+      "img": "/acs/b10.jpg"
+    }
+  ]
+  

@@ -1,0 +1,307 @@
+[
+   
+    {
+        "id": 5,
+        "name": "Charlie",
+        "Gender": "Male",
+        "Age": "4 years",
+        "Animal": "Turtle",
+        "Location": "Rawalpindi",
+        "img": "/pets/t1.png"
+    },
+     
+    {
+        "id": 7,
+        "name": "Rocky",
+        "Gender": "Male",
+        "Animal": "Dog",
+        "Age": "5 years",
+        "Location": "Faisalabad",
+        "img": "/pets/dog2.jpg"
+    }, {
+        "id": 12,
+        "name": "Sadie",
+        "Gender": "Female",
+        "Age": "2.5 years",
+        "Animal": "Cat",
+        "Location": "Hyderabad",
+        "img": "/pets/cat4.jpg"
+    },
+    
+    {
+        "id": 8,
+        "name": "Luna",
+        "Gender": "Female",
+        "Animal": "Rabbit",
+        "Age": "8 months",
+        "Location": "Quetta",
+        "img": "/pets/bun2.png"
+    },
+    {
+        "id": 1,
+        "name": "Molly",
+        "Gender": "Female",
+        "Age": "2 years",
+        "Animal": "Dog",
+        "Location": "Islamabad",
+        "img": "/pets/dog1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Lucy",
+        "Gender": "Female",
+        "Age": "6 months",
+        "Animal": "Cat",
+        "Location": "Peshawar",
+        "img": "/pets/cat2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Cooper",
+        "Gender": "Male",
+        "Age": "2 years",
+        "Animal": "Dog",
+        "Location": "Multan",
+        "img": "/pets/dog3.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Toby",
+        "Gender": "Female",
+        "Age": "1 year",
+        "Animal": "Parrot",
+        "Location": "Sialkot",
+        "img": "/pets/pr1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Goldie",
+        "Gender": "Female",
+        "Age": "6 months",
+        "Animal": "Fish",
+        "Location": "Rawalpindi",
+        "img": "/pets/fish.png"
+    },
+    {
+        "id": 4,
+        "name": "Snowball",
+        "Gender": "Male",
+        "Age": "1 year",
+        "Animal": "Rabbit",
+        "Location": "Lahore",
+        "img": "/pets/bun1.png"
+    },
+    {
+        "id": 14,
+        "name": "Shadow",
+        "Gender": "Male",
+        "Age": "2 years",
+        "Animal": "Cat",
+        "Location": "Larkana",
+        "img": "/pets/cat5.jpg"
+    },
+    
+    {
+        "id": 6,
+        "name": "Max",
+        "Gender": "Male",
+        "Age": "3 years",
+        "Animal": "Cat",
+        "Location": "Karachi",
+        "img": "/pets/cat1.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Buddy",
+        "Gender": "Male",
+        "Age": "1 year",
+        "Animal": "Dog",
+        "Location": "Bahawalpur",
+        "img": "/pets/dog4.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Daisy",
+        "Gender": "Female",
+        "Age": "3 years",
+        "Animal": "Cat",
+        "Location": "Gujranwala",
+        "img": "/pets/cat3.jpg"
+    },
+    
+    {
+        "id": 15,
+        "name": "Coco",
+        "Gender": "Male",
+        "Age": "3 months",
+        "Animal": "Bird",
+        "Location": "Abbottabad",
+        "img": "/pets/pr2.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Lucky",
+        "Gender": "Male",
+        "Age": "2 years",
+        "Animal": "Dog",
+        "Location": "Gujrat",
+        "img": "/pets/dog7.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Rex",
+        "Gender": "Female",
+        "Age": "4 years",
+        "Animal": "Dog",
+        "Location": "Jhelum",
+        "img": "/pets/dog5.jpg"
+    },
+    
+    {
+        "id": 18,
+        "name": "Lily",
+        "Gender": "Female",
+        "Age": "6 months",
+        "Animal": "Fish",
+        "Location": "Sukkur",
+        "img": "/pets/fish2.png"
+    },
+    {
+        "id": 19,
+        "name": "Chloe",
+        "Gender": "Female",
+        "Age": "1.5 years",
+        "Animal": "Rabbit",
+        "Location": "Multan",
+        "img": "/pets/bun3.png"
+    },
+    
+    {
+        "id": 21,
+        "name": "Oliver",
+        "Gender": "Male",
+        "Age": "1 year",
+        "Animal": "Cat",
+        "Location": "Mardan",
+        "img": "/pets/cat6.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Polly",
+        "Gender": "Male",
+        "Age": "2 years",
+        "Animal": "Bird",
+        "Location": "Quetta",
+        "img": "/pets/pr3.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Bruno",
+        "Gender": "Male",
+        "Age": "5 years",
+        "Animal": "Dog",
+        "Location": "Kasur",
+        "img": "/pets/dog8.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Milo",
+        "Gender": "Male",
+        "Age": "1.5 years",
+        "Animal": "Cat",
+        "Location": "Rawalpindi",
+        "img": "/pets/cat7.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Kitty",
+        "Gender": "Female",
+        "Age": "3 years",
+        "Animal": "Cat",
+        "Location": "Gujranwala",
+        "img": "/pets/cat8.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Nemo",
+        "Gender": "Male",
+        "Age": "1 year",
+        "Animal": "Fish",
+        "Location": "Islamabad",
+        "img": "/pets/fish3.png"
+    },
+    {
+        "id": 26,
+        "name": "Angel",
+        "Gender": "Female",
+        "Age": "2 years",
+        "Animal": "Bird",
+        "Location": "Hyderabad",
+        "img": "/pets/pr4.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Bunny",
+        "Gender": "Female",
+        "Age": "9 months",
+        "Animal": "Rabbit",
+        "Location": "Faisalabad",
+        "img": "/pets/pet10.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Hunter",
+        "Gender": "Male",
+        "Age": "4 years",
+        "Animal": "Dog",
+        "Location": "Lahore",
+        "img": "/pets/dog9.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Tinker",
+        "Gender": "Male",
+        "Age": "2 years",
+        "Animal": "Fish",
+        "Location": "Karachi",
+        "img": "/pets/fish4.png"
+    },
+    
+    {
+        "id": 31,
+        "name": "Penny",
+        "Gender": "Female",
+        "Age": "1.5 years",
+        "Animal": "Rabbit",
+        "Location": "Rawalpindi",
+        "img": "/pets/bun4.png"
+    },
+    
+    {
+        "id": 33,
+        "name": "Smokey",
+        "Gender": "Male",
+        "Age": "2 years",
+        "Animal": "Cat",
+        "Location": "Islamabad",
+        "img": "/pets/cat9.jpg"
+    },
+    
+    {
+        "id": 35,
+        "name": "Thumper",
+        "Gender": "Male",
+        "Age": "8 months",
+        "Animal": "Rabbit",
+        "Location": "Lahore",
+        "img": "/pets/fish5.png"
+    },{
+        "id": 34,
+        "name": "Blaze",
+        "Gender": "Male",
+        "Age": "3 years",
+        "Animal": "Dog",
+        "Location": "Karachi",
+        "img": "/pets/dog10.jpg"
+    }
+]
