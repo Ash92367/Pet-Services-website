@@ -1,0 +1,48 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%; /* Full width */
+  height: 80px; /* Reduced height */
+  padding: 0 20px;
+  background-color: #FFBE4D; /* Light mustard for a modern look */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  z-index: 1000;
+  font-family: 'Arial', sans-serif;
+  font-size: 29px;
+  margin-top: 20px;
+  color: #fff;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  height: auto;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  border-radius: 50%;
+}
+
+.logo:hover {
+  transform: scale(1.1); 
+}
+
+.profile {
+  width: 45px;
+  height: 45px;
+  margin-right: 25px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
