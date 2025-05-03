@@ -1,0 +1,152 @@
+/* Admin List Page Styles */
+.admin-list-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px;
+    margin-left: 100px;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+    margin-top: 36px;
+}
+
+.admin-list-page .list-pets-container {
+    width: 100%;
+    max-width: 1200px;
+    background: #ffffff;
+    padding: 30px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.admin-list-page .list-pets-container:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.25);
+}
+
+.admin-list-page .list-pets-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #343a40;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+.admin-list-page .list-pets-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    overflow-x: auto;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.admin-list-page .list-pets-table th,
+.admin-list-page .list-pets-table td {
+    padding: 18px 20px;
+    border: 1px solid #ddd;
+}
+
+.admin-list-page .list-pets-table th {
+    background: #e9ecef;
+    font-weight: bold;
+    color: #495057;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+.admin-list-page .list-pets-table td {
+    color: #6c757d;
+    vertical-align: middle;
+}
+
+.admin-list-page .list-pets-table tr:hover {
+    background: #f1f3f5;
+    cursor: pointer;
+}
+
+.admin-list-page .pet-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.admin-list-page .pet-image:hover {
+    transform: scale(1.1);
+}
+
+.admin-list-page .delete-button {
+    background: #dc3545;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.admin-list-page .delete-button:hover {
+    background: #c82333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.admin-list-page .delete-button:active {
+    transform: scale(0.97);
+}
+
+.admin-list-page .no-pets-message {
+    text-align: center;
+    font-size: 18px;
+    color: #868e96;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.admin-list-page .action-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.admin-list-page .action-buttons .edit-button {
+    background: #28a745;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.admin-list-page .action-buttons .edit-button:hover {
+    background: #218838;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.admin-list-page .action-buttons .edit-button:active {
+    transform: scale(0.97);
+}
+
+.admin-list-page .table-footer {
+    text-align: right;
+    font-size: 14px;
+    color: #6c757d;
+    margin-top: 15px;
+    font-style: italic;
+}
